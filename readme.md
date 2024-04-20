@@ -4,3 +4,4 @@
 * iScones
 * Hariballs
 * Bhaktivedanta Air Conditioner
+* Вайкухня
